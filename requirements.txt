@@ -1,0 +1,12 @@
+torch>=2.1.0
+torchvision>=0.16.0
+numpy
+Pillow
+opencv-python
+facenet-pytorch
+insightface
+onnxruntime
+scikit-learn
+tqdm
+onnx
+onnx2tf; platform_system != "Windows"  # optional, see README note
